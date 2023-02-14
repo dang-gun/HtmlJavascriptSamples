@@ -1,6 +1,6 @@
-# Javascript Arrow Function Test
+ï»¿# Javascript Arrow Function Test
 
-[Javascript] 'this'¸¦ À§ÇÑ È­»ìÇ¥ ÇÔ¼ö(Arrow function)
+[Javascript] 'this'ë¥¼ ìœ„í•œ í™”ì‚´í‘œ í•¨ìˆ˜(Arrow function)
 https://blog.danggun.net/10618
 
 
