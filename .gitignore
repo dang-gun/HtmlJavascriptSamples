@@ -104,13 +104,4 @@ dist
 .tern-port
 
 .vs/
-/.vs/slnx.sqlite
-/ReactHtmlParsing/.vs/slnx.sqlite
-/ReactHtmlParsing/.vs/ReactHtmlParsing/v17/.suo
-/.vs/HtmlJavascriptSamples/v17/.wsuo
-/.vs/HtmlJavascriptSamples/FileContentIndex/write.lock
-/.vs/HtmlJavascriptSamples/FileContentIndex/2aa1df88-42a1-4a93-919c-27cc881df5ab.vsidx
-/.vs/HtmlJavascriptSamples/FileContentIndex/aef5b5aa-25b2-4c5c-98d4-8f7aa8e25b7c.vsidx
-/.vs/HtmlJavascriptSamples/FileContentIndex/21046c86-82be-4c42-aca7-82bb8e5bce01.vsidx
-/.vs/HtmlJavascriptSamples/FileContentIndex/8bf7f230-c0be-44df-96b4-f6bdb6ad947f.vsidx
-/.vs/VSWorkspaceState.json
+
