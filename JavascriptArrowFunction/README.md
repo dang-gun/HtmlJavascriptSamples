@@ -1,5 +1,6 @@
-# DG_ValueConverter
+# Javascript Arrow Function Test
 
-숫자 변환기
+[Javascript] 'this'를 위한 화살표 함수(Arrow function)
+https://blog.danggun.net/10618
 
 
