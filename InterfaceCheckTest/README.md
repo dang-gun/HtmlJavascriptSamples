@@ -1,7 +1,13 @@
-﻿# Javascript Arrow Function Test
+﻿# Interface Check Test
 
-[TypeScript] 타입스크립트에서 열거형(enum)은 계륵인가?
-https://blog.danggun.net/10638
+[TypeScript] 오브젝트가 동일 인터페이스(interface)인지 확인하기<br />
+https://blog.danggun.net/10769
 
-에서 사용된 셈플입니다.
+에서 사용된 샘플입니다.
+
+<br />
+<br />
+
+## 실행 방법
+npm run-script development
 

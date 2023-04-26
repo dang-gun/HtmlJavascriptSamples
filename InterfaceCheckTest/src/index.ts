@@ -127,15 +127,6 @@ export default class StartUp
 
 		return bReturn;
 	}
-
-
-	public InterfaceCheck3(obj1: Test1Interface, obj2: any): boolean
-	{
-		let bReturn: boolean = false;
-
-		return bReturn;
-	}
-
 }
 
 
