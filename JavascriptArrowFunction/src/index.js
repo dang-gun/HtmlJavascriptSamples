@@ -1,6 +1,4 @@
-﻿
-
-//import DG_JsTextReplace, { MatchResultInterface } from "./DG_JsTextReplace/DG_JsTextReplace";
+﻿import TestChild from "./TestChild";
 
 
 export default class StartUp
@@ -8,6 +6,9 @@ export default class StartUp
 	
 	A = "StartUp A";
 	B = "StartUp B";
+
+	/** 상속 테스트용 */
+	TestChild1 = new TestChild();
 	
 	constructor()
 	{
@@ -19,6 +20,7 @@ export default class StartUp
 
 		console.log("constructor this A : " + this.A);
 		console.log(this);
+		console.log(" ");
 	}
 
 	TestCilck = () =>
@@ -26,6 +28,7 @@ export default class StartUp
 		console.log("TestCilck this A : " + this.A);
 		console.log("TestCilck this B : " + this.B);
 		console.log(this);
+		console.log(" ");
 	};
 
 	TestCilck2()
@@ -34,6 +37,7 @@ export default class StartUp
 		console.log("TestCilck2 this A : " + this.A);
 		console.log("TestCilck2 this B : " + this.B);
 		console.log(this);
+		console.log(" ");
 	};
 
 
@@ -63,9 +67,12 @@ export default class StartUp
 		fun();
 	}
 
+
+
+
 }
 
-
+/** 화살표 함수 테스트용 클래스 */
 export class TestClass
 {
 	A = "TestClass A";
@@ -77,6 +84,7 @@ export class TestClass
 
 		console.log("TestClass Call2 objThis A : " + objThis.A);
 		console.log(objThis);
+		console.log(" ");
 	}
 }
 
